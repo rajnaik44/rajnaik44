@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm RAJ KAMLAKANT NAIK</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h3 align="center">A passionate Full Stack developer from India</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rajnaik44&label=Profile%20views&color=0e75b6&style=flat" alt="rajnaik44" /> </p>
 
@@ -7,9 +7,11 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🌱 I’m currently learning **React.j,Node.js**
+- 🌱 I’m currently learning **TypeScript**
 
 - 👨‍💻 All of my projects are available at [https://github.com/rajnaik44](https://github.com/rajnaik44)
+- 
+- 👨‍💻 Click Herre To visit My PortFolio Website [[https://github.com/rajnaik44](https://github.com/rajnaik44](https://raj-portfolio-chi.vercel.app/))
 
 - 📫 How to reach me **raj44.naik@gmail.com**
 
